@@ -10,18 +10,18 @@ columnar is killing me
 
 btw did you figure out the title?
 
-Cipher list
+<strong>Cipher list</strong>
 
-Caesar - complete (though I’d like to try it for fun)
-Keyword - complete (need to put input validation) (need to finish deco)
-Polybius - complete (needs final finishing though, and I could add a keyword option)
-Rail fence - mostly complete (needs implementing and testing)
-Vignere - complete
-Columnar transposition - in progress (tis hell)
-Foursquare cipher - Not in progress
-Hill cipher - Not in progress (barely a clue of how this one works)
-Nihilist cipher - not in progress, appeared last year 
-Substitution - complete
-Morse code - not in progress (find and replace exists, so not really necessary) (thats really easily we could do that in a lunchtime)
-Affine cipher - complete-ish
-Atbash cipher - complete
+Caesar - complete (though I’d like to try it for fun)<br>
+Keyword - complete (need to put input validation) (need to finish deco)<br>
+Polybius - complete (needs final finishing though, and I could add a keyword option)<br>
+Rail fence - mostly complete (needs implementing and testing)<br>
+Vignere - complete<br>
+Columnar transposition - in progress (tis hell)<br>
+Foursquare cipher - Not in progress<br>
+Hill cipher - Not in progress (barely a clue of how this one works)<br>
+Nihilist cipher - not in progress, appeared last year <br>
+Substitution - complete <br>
+Morse code - not in progress (find and replace exists, so not really necessary) (thats really easily we could do that in a lunchtime)<br>
+Affine cipher - complete-ish <br>
+Atbash cipher - complete <br>
