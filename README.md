@@ -17,7 +17,7 @@ Keyword - complete (need to put input validation) (need to finish deco)<br>
 Polybius - complete (needs final finishing though, and I could add a keyword option)<br>
 Rail fence - mostly complete (needs implementing and testing)<br>
 Vignere - complete<br>
-Columnar transposition - in progress (tis hell)<br>
+Columnar transposition - DONE YES AHAHAHAHA(tis hell)<br>
 Foursquare cipher - Not in progress<br>
 Hill cipher - Not in progress (barely a clue of how this one works)<br>
 Nihilist cipher - not in progress, appeared last year <br>
