@@ -19,9 +19,9 @@ Rail fence - mostly complete (needs implementing and testing)<br>
 Vignere - complete<br>
 Columnar transposition - DONE YES AHAHAHAHA(tis hell)<br>
 Foursquare cipher - Not in progress<br>
-Hill cipher - Not in progress (barely a clue of how this one works)<br>
-Nihilist cipher - not in progress, appeared last year <br>
+Hill cipher - be in progress soon (barely a clue of how this one works)<br>
+Nihilist cipher - in progress, appeared last year <br>
 Substitution - complete <br>
-Morse code - not in progress (find and replace exists, so not really necessary) (thats really easily we could do that in a lunchtime)<br>
-Affine cipher - complete-ish <br>
+Morse code - complete<br>
+Affine cipher - complete<br>
 Atbash cipher - complete <br>
