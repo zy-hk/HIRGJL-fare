@@ -18,10 +18,13 @@ Polybius - complete (needs final finishing though, and I could add a keyword opt
 Rail fence - mostly complete (needs implementing and testing)<br>
 Vignere - complete<br>
 Columnar transposition - DONE YES AHAHAHAHA(tis hell)<br>
-Foursquare cipher - Not in progress<br>
-Hill cipher - be in progress soon (barely a clue of how this one works)<br>
-Nihilist cipher - in progress, appeared last year <br>
+Foursquare cipher - in progress<br>
+Hill cipher - be in progress soon (barely a clue of how this one works) A HAHAHAHAHA SUCK IT WE DID IT YEA<br>
+Nihilist cipher - i think hana finished it, right? <br>
 Substitution - complete <br>
 Morse code - complete<br>
 Affine cipher - complete<br>
 Atbash cipher - complete <br>
+Bacon cipher - DONE<br>
+solitaire cipher - uh.. <br>
+bifid cipher - uhh... <br>
