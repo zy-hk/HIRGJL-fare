@@ -15,16 +15,17 @@ btw did you figure out the title?
 Caesar - complete (though I’d like to try it for fun)<br>
 Keyword - complete (need to put input validation) (need to finish deco)<br>
 Polybius - complete (needs final finishing though, and I could add a keyword option)<br>
-Rail fence - mostly complete (needs implementing and testing)<br>
+Rail fence - complete <br>
 Vignere - complete<br>
 Columnar transposition - DONE YES AHAHAHAHA(tis hell)<br>
 Foursquare cipher - in progress<br>
-Hill cipher - be in progress soon (barely a clue of how this one works) A HAHAHAHAHA SUCK IT WE DID IT YEA<br>
+Hill cipher - A HAHAHAHAHA SUCK IT WE DID IT YEA<br>
 Nihilist cipher - i think hana finished it, right? <br>
 Substitution - complete <br>
 Morse code - complete<br>
 Affine cipher - complete<br>
 Atbash cipher - complete <br>
+Autokey cipher - complete<br>
 Bacon cipher - DONE<br>
 solitaire cipher - uh.. <br>
 bifid cipher - uhh... <br>
