@@ -7,7 +7,7 @@ bloop = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ ")
 text_incor = input("What is your text? ").upper()
 text = text_incor.replace(" ", "")
 
-length = input("How many columns are there? ")
+length = int(input("How many columns are there? "))
 
 # Input valid until length is divisible by 6
 while len(text) % length != 0 or len(text) < length:
